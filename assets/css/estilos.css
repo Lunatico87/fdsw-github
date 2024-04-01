@@ -12,10 +12,17 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bg-beto.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+}
+
+h1{
+  text-shadow: 5px 5px 10px #272730;
+}
+.sombra {
+  text-shadow: 2px 2px 5px #000000;
 }
 
 /* Mis trabajos */
